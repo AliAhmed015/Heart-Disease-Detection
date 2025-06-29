@@ -169,39 +169,39 @@ plot_age_distribution(data)
 The project generates comprehensive visualizations for data exploration and model interpretation:
 
 ### 1. Feature Correlation Heatmap
-![Correlation Heatmap](images/Diagonal Correlation Matrix.png)
+![Correlation Heatmap](images/DiagonalCorrelationMatrix.png)
 *Reveals relationships between features, highlighting Thalassemia and MaxHeartRateAchieved as strong predictors*
 
 ### 2. Age Distribution
-![Age Distribution](images/Age Distribution.png)
+![Age Distribution](images/AgeDistribution.png)
 *Shows the age profile of the dataset with majority around 60 years*
 
 ### 3. Cholesterol Levels by Target
-![Cholesterol Boxplot](images/Boxplot of Cholesterol Levels by Target Variable.png)
+![Cholesterol Boxplot](images/BoxplotofCholesterolLevelsbyTargetVariable.png)
 *Demonstrates outlier patterns in cholesterol levels for heart disease patients*
 
 ### 4. Chest Pain Type Distribution
-![Chest Pain Distribution](images/Distribution of Chest Pain Types.png)
+![Chest Pain Distribution](images/DistributionofChestPainTypes.png)
 *Distribution of chest pain types across the dataset*
 
 ### 5. Age vs Maximum Heart Rate Scatter Plot
-![Age vs Heart Rate](images/Age vs. Maximum Heart Rate by Target Variable.png)
+![Age vs Heart Rate](images/Agevs.MaximumHeartRatebyTargetVariable.png)
 *Relationship between age and maximum heart rate by heart disease status*
 
 ### 6. ROC Curves Comparison
-![ROC Curves](images/ROC Curve.png)
+![ROC Curves](images/ROCCurve.png)
 *Performance comparison between Logistic Regression and KNN models*
 
 ### 7. LIME Feature Importance
-![LIME Analysis](images/Lime Explanation.png)
+![LIME Analysis](images/LimeExplanation.png)
 *Local interpretable explanations for model predictions*
 
 ### 8. Logistic Regression Confusion Matrix
-![LR Classification Report](images/Confusion Matrix for Logistic Regression Model.png)
+![LR Classification Report](images/ConfusionMatrixforLogisticRegressionModel.png)
 *Confusion matrix analysis for Logistic Regression*
 
 ### 11. KNN Confusion Matrix
-![KNN Confusion Matrix](images/Confusion Matrix KNN.png)
+![KNN Confusion Matrix](images/ConfusionMatrixKNN.png)
 *Confusion matrix analysis for K-Nearest Neighbors*
 
 ## Contributing
