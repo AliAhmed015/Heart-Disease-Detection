@@ -27,42 +27,6 @@ This project implements an interactive machine learning system for heart disease
 - **LIME**: Local interpretable model-agnostic explanations
 - **Jupyter Notebook**: Interactive development environment
 
-## Project Structure
-
-```
-heart-disease-detection/
-├── data/
-│   ├── raw/                    # Original dataset files
-│   ├── processed/              # Cleaned and preprocessed data
-│   └── README.md              # Data description and sources
-├── notebooks/
-│   ├── 01_data_exploration.ipynb
-│   ├── 02_data_preprocessing.ipynb
-│   ├── 03_model_training.ipynb
-│   └── 04_model_evaluation.ipynb
-├── src/
-│   ├── data/
-│   │   ├── __init__.py
-│   │   ├── preprocessing.py    # Data cleaning and preparation
-│   │   └── visualization.py    # EDA and plotting functions
-│   ├── models/
-│   │   ├── __init__.py
-│   │   ├── logistic_regression.py
-│   │   ├── knn.py
-│   │   └── evaluation.py       # Model evaluation utilities
-│   └── utils/
-│       ├── __init__.py
-│       └── helpers.py          # Utility functions
-├── results/
-│   ├── figures/               # Generated plots and visualizations
-│   ├── models/               # Saved model files
-│   └── reports/              # Performance reports
-├── requirements.txt
-├── setup.py
-├── README.md
-└── LICENSE
-```
-
 ## Installation & Getting Started
 
 ### Prerequisites
