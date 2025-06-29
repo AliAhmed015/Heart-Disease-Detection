@@ -74,7 +74,7 @@ heart-disease-detection/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/heart-disease-detection.git
+git clone https://github.com/AliAhmed015/Heart-Disease-Detection.git
 cd heart-disease-detection
 ```
 
