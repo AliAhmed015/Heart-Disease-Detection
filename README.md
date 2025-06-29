@@ -169,47 +169,39 @@ plot_age_distribution(data)
 The project generates comprehensive visualizations for data exploration and model interpretation:
 
 ### 1. Feature Correlation Heatmap
-![Correlation Heatmap](results/figures/correlation_heatmap.png)
+![Correlation Heatmap](images/Diagonal Correlation Matrix.png)
 *Reveals relationships between features, highlighting Thalassemia and MaxHeartRateAchieved as strong predictors*
 
 ### 2. Age Distribution
-![Age Distribution](results/figures/age_distribution.png)
+![Age Distribution](images/Age Distribution.png)
 *Shows the age profile of the dataset with majority around 60 years*
 
 ### 3. Cholesterol Levels by Target
-![Cholesterol Boxplot](results/figures/cholesterol_boxplot.png)
+![Cholesterol Boxplot](images/Boxplot of Cholesterol Levels by Target Variable.png)
 *Demonstrates outlier patterns in cholesterol levels for heart disease patients*
 
 ### 4. Chest Pain Type Distribution
-![Chest Pain Distribution](results/figures/chest_pain_distribution.png)
+![Chest Pain Distribution](images/Distribution of Chest Pain Types.png)
 *Distribution of chest pain types across the dataset*
 
 ### 5. Age vs Maximum Heart Rate Scatter Plot
-![Age vs Heart Rate](results/figures/age_heart_rate_scatter.png)
+![Age vs Heart Rate](images/Age vs. Maximum Heart Rate by Target Variable.png)
 *Relationship between age and maximum heart rate by heart disease status*
 
 ### 6. ROC Curves Comparison
-![ROC Curves](results/figures/roc_curves.png)
+![ROC Curves](images/ROC Curve.png)
 *Performance comparison between Logistic Regression and KNN models*
 
 ### 7. LIME Feature Importance
-![LIME Analysis](results/figures/lime_analysis.png)
+![LIME Analysis](images/Lime Explanation.png)
 *Local interpretable explanations for model predictions*
 
-### 8. Logistic Regression Classification Report
-![LR Classification Report](results/figures/lr_classification_report.png)
-*Detailed performance metrics for Logistic Regression*
-
-### 9. KNN Classification Report
-![KNN Classification Report](results/figures/knn_classification_report.png)
-*Comprehensive performance evaluation for KNN model*
-
-### 10. Logistic Regression Confusion Matrix
-![LR Confusion Matrix](results/figures/lr_confusion_matrix.png)
-*Confusion matrix visualization for Logistic Regression*
+### 8. Logistic Regression Confusion Matrix
+![LR Classification Report](images/Confusion Matrix for Logistic Regression Model.png)
+*Confusion matrix analysis for Logistic Regression*
 
 ### 11. KNN Confusion Matrix
-![KNN Confusion Matrix](results/figures/knn_confusion_matrix.png)
+![KNN Confusion Matrix](images/Confusion Matrix KNN.png)
 *Confusion matrix analysis for K-Nearest Neighbors*
 
 ## Contributing
