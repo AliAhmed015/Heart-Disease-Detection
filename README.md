@@ -182,20 +182,6 @@ We welcome contributions to improve this project! Here's how you can help:
 7. Push to the branch (`git push origin feature/amazing-feature`)
 8. Open a Pull Request
 
-### Contribution Guidelines
-- Follow PEP 8 style guidelines
-- Write clear, concise commit messages
-- Add documentation for new features
-- Include unit tests for new functionality
-- Update README.md if necessary
-
-### Areas for Contribution
-- Additional machine learning algorithms
-- Enhanced visualization capabilities
-- Performance optimizations
-- Documentation improvements
-- Bug fixes and error handling
-
 ## Important Notes & Limitations
 
 ### Current Limitations
@@ -213,18 +199,6 @@ We welcome contributions to improve this project! Here's how you can help:
 - Model interpretability features work best with the current feature set
 
 ## Future Improvements
-
-### Planned Enhancements
-- [ ] **Deep Learning Integration**: Add neural network models (CNN, RNN)
-- [ ] **Real-time Prediction API**: RESTful API for clinical integration
-- [ ] **Enhanced Visualization**: Interactive dashboards with Plotly/Dash
-- [ ] **Cross-validation**: Implement k-fold cross-validation
-- [ ] **Feature Engineering**: Automated feature selection and engineering
-- [ ] **Model Ensemble**: Combine multiple models for better performance
-- [ ] **Data Augmentation**: Synthetic data generation for improved training
-- [ ] **Mobile Application**: Flutter/React Native app for accessibility
-- [ ] **Cloud Deployment**: AWS/GCP deployment with Docker containers
-- [ ] **Performance Monitoring**: MLOps pipeline with model monitoring
 
 ### Research Directions
 - Integration with electronic health records (EHR)
